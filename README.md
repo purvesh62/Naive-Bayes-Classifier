@@ -1,8 +1,8 @@
 # Naive Bayes Classifier for intent classification in python
 
-You can built a simple classifier for your chatbot using `NaiveBayesClassier` from [textblob]('https://textblob.readthedocs.io/en/dev/classifiers.html')
+You can built a simple classifier for your chatbot using `NaiveBayesClassier` from [textblob](https://textblob.readthedocs.io/en/dev/classifiers.html)
 
-The dataset I've used is taken from [Kaggle]('https://www.kaggle.com/datasets/himanshu01dadhich/chat-bot-dataset')
+The dataset I've used is taken from [Kaggle](https://www.kaggle.com/datasets/himanshu01dadhich/chat-bot-dataset)
 
 ---
 
